@@ -15,9 +15,11 @@ body {
 h2 {
   color: gray;
   font-style: bold;
-  text-align: center;
 }
 
+h3 {
+  color:gray;
+}
 p {
   font-family: sans-serif;
 }
